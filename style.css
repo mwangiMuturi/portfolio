@@ -1,0 +1,119 @@
+ body{
+    margin-left: 10%;
+   margin-right: 10%; }
+
+
+.logo{
+    background-color: #5E0404;
+    width: 85px;
+    height: 85px;
+    border-radius: 100%;
+    font-size: 85px;
+    text-align: center;
+    font-family:sans-serif;
+    color: #D9D9D9;
+}
+nav>a{
+    font-size: 45px;
+    text-decoration: none;
+    color:#5E0404
+
+}
+nav{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.desc{
+    font-size: 45px;
+
+}
+.mid{
+    display: flex;
+    padding: 30px;
+}
+.see{
+    padding: 10px;
+    font-size: 30px;
+    font-family: sans-serif;
+    background-color: #A2C3A4;
+    border: none;
+    color: rgb(0, 0, 0);
+
+}
+.projects{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 100px;
+}
+.card{
+    background-color: #D9D9D9;
+    width: 30%;
+    padding: 10px;
+    
+}
+.card>h4{
+    font-size: 40px;
+}
+footer{
+    bottom: 0;
+    margin-top: 100px;
+}
+ 
+.seeh{
+    margin: 0px;
+   
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.bottom{ 
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+     background-color: #BFDBF7;
+}
+.bottom>h2{
+    padding: 1em;
+    font-size: 40px;
+}
+.my_img{
+    border-radius: 7px;
+}
+.mid_about{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.text_about>p{
+    font-size: 2em;
+}
+.stack{
+    text-align: center;
+}
+
+#des{
+    margin-top: 30px;
+}
+.contact{
+    display: flex;
+    font-size: 30px;
+   height: 3em;
+    justify-content: space-around;
+    
+}
+.contact>a>img {
+ height: 3em;
+ margin: 5px;
+}
+.contact{
+    padding: 1em;
+}
+ 
+.stack_img>img{
+    height: 100px;
+}
